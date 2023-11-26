@@ -24,7 +24,7 @@ A new Flutter project.
 This app uses Back4App for the database, please create an account for the same. Once the account is created, create a new table named 'Task' and add two string columns named title and description. Replace the application key and client keys in the code to connect your application to the database.
 Prerequisites An account on Back4App. Flutter (version 2.2.x or later). Android Studio or VS Code with Dart and Flutter plugins installed​​.
 
-Set Up and Run Back4App Setup: Sign up and create a new app on Back4App. Define a class named Task with columns for title and description​​. Flutter Setup: Create a new Flutter project and add the necessary dependencies for Parse in the pubspec.yaml file​​. Running the App: Navigate to the project directory and use flutter run to start the application​​.
+**Set Up and Run Back4App Setup:** Sign up and create a new app on Back4App. Define a class named Task with columns for title and description​​. Flutter Setup: Create a new Flutter project and add the necessary dependencies for Parse in the pubspec.yaml file​​. Running the App: Navigate to the project directory and use flutter run to start the application​​.
 
 final keyApplicationId = 'YOUR_APPLICATION_KEY_HERE';
 
@@ -37,5 +37,6 @@ flutter pub get
 Once the above command is successful, run the command to start the application.
 
 flutter run.
+flutter run -d chrome
 
 Now we can see a model getting built and data will be stored in the backend.
