@@ -1,0 +1,390 @@
+{
+   "checksum": "d8cc5ac77be8e4791483e9d76e903afa",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13313943735005501",
+            "date_last_used": "0",
+            "guid": "aafc5dc4-1c58-4903-8fea-e77658405556",
+            "id": "7",
+            "name": "HP product warranty results HP ProBook 635 Aero G8 Notebook PC (276K8AV) | HP® Customer Support",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://support.hp.com/in-en/warrantyresult/hp-probook-635-aero-g8-notebook-pc/2100179193/model/2100179203?sku=4Q1T3PA&serialnumber=5CG1386RJF"
+         }, {
+            "date_added": "13313944089935420",
+            "date_last_used": "13314201194773038",
+            "guid": "56b2b3b1-5377-4e07-bb92-5789d7e945aa",
+            "id": "8",
+            "name": "HP Wolf Security Help",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://help-sureclick.bromium-online.com/v4.3.0/essential-security/en/messages.html#MessagePreparingForFirstUse"
+         }, {
+            "date_added": "13328897384118183",
+            "date_last_used": "0",
+            "guid": "a15dda99-a3b1-4397-8ee9-af1e891c347a",
+            "id": "9",
+            "name": "Camera Logo",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://lh3.googleusercontent.com/iyOuSSxW6I2lHiXv0HwFSklyMtESpWQxObSZns4dc6BluwucocMRwupVYjNHfyk2Lz63n1plExdtcYbGdvbfh342XWxwm-7bCcUgTBcsJAECBq4WYVU=s0-rj-c0xffffff"
+         }, {
+            "date_added": "13318240834292024",
+            "date_last_used": "0",
+            "guid": "e8dce0a3-0ab2-4c9d-9807-9916a71d6766",
+            "id": "10",
+            "name": "Latest Health, Wellnesss, Fitness, Nutrition information and Professionals connect | MSN Health",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.msn.com/en-in/health?type=fitness&filters=duration-super+quick&rc=1&ocid=winp1taskbar&cvid=c4eac1fbf0e34e63aefcdcab28b94fbd"
+         }, {
+            "date_added": "13317380939282845",
+            "date_last_used": "0",
+            "guid": "0844d4c9-391f-45f2-9484-c6e097f758d7",
+            "id": "11",
+            "name": "Gmail",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService"
+         }, {
+            "date_added": "13317380939284782",
+            "date_last_used": "13328887305522189",
+            "guid": "e66211f0-22e2-4659-9e52-3ac938189f11",
+            "id": "12",
+            "name": "YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://youtube.com/"
+         }, {
+            "date_added": "13317380939285627",
+            "date_last_used": "0",
+            "guid": "a0c26db7-d2d1-439d-ab26-a9b6136a3edb",
+            "id": "13",
+            "name": "Maps",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://maps.google.com/"
+         }, {
+            "date_added": "13317380943486969",
+            "date_last_used": "0",
+            "guid": "1870c90f-5fd3-4215-be14-4485fa783949",
+            "id": "14",
+            "name": "Translate",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://translate.google.com/"
+         }, {
+            "date_added": "13317401298867333",
+            "date_last_used": "0",
+            "guid": "b3843e65-1184-43e0-8f3b-5218d284396b",
+            "id": "15",
+            "name": "MyAthens / Research zone",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://my.openathens.net/app/research"
+         }, {
+            "date_added": "13317401360216266",
+            "date_last_used": "0",
+            "guid": "d563877a-34e7-409d-a533-41e910b8004e",
+            "id": "16",
+            "name": "Login",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://library.bits-pilani.ac.in/login.php"
+         }, {
+            "date_added": "13317401868954770",
+            "date_last_used": "0",
+            "guid": "c9198ef0-8046-428c-ab7e-e522c38e780b",
+            "id": "17",
+            "name": "BITS Pilani Library - infoBITS",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://library.bits-pilani.ac.in/"
+         }, {
+            "date_added": "13317480347938056",
+            "date_last_used": "0",
+            "guid": "88ac9705-2275-4739-b93a-75f95cb34810",
+            "id": "18",
+            "name": "taxila portal",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://taxila-aws.bits-pilani.ac.in/course/view.php?id=199"
+         }, {
+            "date_added": "13317647598182008",
+            "date_last_used": "0",
+            "guid": "56cae44d-411b-4e7d-bcc0-f19a96658aa0",
+            "id": "19",
+            "name": "Overview - OpenAI API",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://beta.openai.com/overview"
+         }, {
+            "date_added": "13318690222516084",
+            "date_last_used": "0",
+            "guid": "655bc612-3421-4ad6-b9be-295219800319",
+            "id": "20",
+            "name": "ProQuest Ebook Central - Reader",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://ebookcentral.proquest.com/lib/bitspilani-ebooks/reader.action?docID=4527741&query=cloud+computing"
+         }, {
+            "date_added": "13318690227411233",
+            "date_last_used": "0",
+            "guid": "beecc568-8bfe-40d3-9187-cf73a88e2a7b",
+            "id": "21",
+            "name": "elibrary.phindia.com",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://elibrary.phindia.com/ebooks/2UwUrIjH3mA-jVKQ1_EziQ"
+         }, {
+            "date_added": "13318690269375158",
+            "date_last_used": "0",
+            "guid": "b095537a-74e9-40f2-a889-3f9fca4ff85f",
+            "id": "22",
+            "name": "Explore",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://ebooks.wileyindia.com/explore;searchText=cloud%20computing;phraseMatch=0;themeName=Default-Theme"
+         }, {
+            "date_added": "13318690276710656",
+            "date_last_used": "0",
+            "guid": "73312f7b-6216-49e9-9ec6-2b2cf92cc765",
+            "id": "23",
+            "name": "McGraw-Hill Education - Access Engineering",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.accessengineeringlibrary.com/?implicit-login=true"
+         }, {
+            "date_added": "13318690280552154",
+            "date_last_used": "0",
+            "guid": "26dbb1b8-aaa5-47f0-a7dc-2ce2cdd3164e",
+            "id": "24",
+            "name": "Search Results - CBS",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://eduport--global-com.eu1.proxy.openathens.net/searchresults?option=catalog_shelf&keyword=cloud+computing&tokenvalue=&type=quick"
+         }, {
+            "date_added": "13318690287774830",
+            "date_last_used": "0",
+            "guid": "9a444e83-4df6-4bcf-a53c-e0979f59066c",
+            "id": "25",
+            "name": "Lib Wonder",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www-libwonder-com.eu1.proxy.openathens.net/wsLibrary/myLibrary?instituteId=802"
+         }, {
+            "date_added": "13318690292295719",
+            "date_last_used": "0",
+            "guid": "55ff82f9-dd88-4646-9a92-01cafa410bf2",
+            "id": "26",
+            "name": "Taylor & Francis Group",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://accounts.taylorfrancis.com/identityv1/#/accounts/your-account"
+         }, {
+            "date_added": "13318690298661276",
+            "date_last_used": "0",
+            "guid": "1a4998b7-770e-4804-a9e8-a8b035d9a25e",
+            "id": "27",
+            "name": "Pearson eLibrary",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://ebooks.elibrary.in.pearson.com/wr/overview.html#book/4ddc17be-c28c-4286-90d9-a766f3bedb4c?fromMyLibrary"
+         }, {
+            "date_added": "13322586727089242",
+            "date_last_used": "0",
+            "guid": "c14931ff-966e-4256-ab3e-f22c8686eecc",
+            "id": "28",
+            "name": "2003_004_001_14141.pdf (SECURED)",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "chrome-extension://elhekieabhbkpmcefcoobjddigjcaadp/https://resources.sei.cmu.edu/asset_files/TechnicalNote/2003_004_001_14141.pdf"
+         }, {
+            "date_added": "13323613031536894",
+            "date_last_used": "0",
+            "guid": "c9022a0b-feac-4e7f-a25b-7f6e2c28ad93",
+            "id": "29",
+            "name": "SE SG544- Agile SW Process",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://docs.google.com/forms/d/e/1FAIpQLSevOUE397r9byLObZQPmXYWkvdTlptxE6ENoOOHyk-Fh3yhgw/viewform"
+         }, {
+            "date_added": "13325776916025606",
+            "date_last_used": "0",
+            "guid": "b647e141-1550-48e7-b173-6bf4281cd086",
+            "id": "30",
+            "name": "Mid Sem SA Paper - My BITS WILP Knowledge Base",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://akhilsudh.github.io/BITS-WILP-Knowledge-Base/Knowledge%20Base/All%20Semesters/Semester%202/Software%20Architectures/Mid%20Sem%20Paper%20SA.html"
+         }, {
+            "date_added": "13329566912236302",
+            "date_last_used": "0",
+            "guid": "1c508ed2-fa9a-4df8-83aa-28de207c0d67",
+            "id": "31",
+            "name": "Azurelib Academy",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://academy.azurelib.com/checkout/Course/15039"
+         }, {
+            "date_added": "13335428871810815",
+            "date_last_used": "0",
+            "guid": "24ee0bb0-bf62-4ec6-b0b9-9bb7202cc330",
+            "id": "32",
+            "name": "SEED Project",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://seedsecuritylabs.org/Labs_20.04/Networking/"
+         }, {
+            "date_added": "13335430940094128",
+            "date_last_used": "0",
+            "guid": "6b771d98-f469-42d9-83c4-913c084494b5",
+            "id": "33",
+            "name": "seed-labs/manuals/vm/seedvm-manual.md at master · seed-labs/seed-labs · GitHub",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://github.com/seed-labs/seed-labs/blob/master/manuals/vm/seedvm-manual.md"
+         }, {
+            "date_added": "13335687625859010",
+            "date_last_used": "0",
+            "guid": "6b8c3939-e606-4318-8d4a-32433123fdcf",
+            "id": "34",
+            "name": "Welcome to Scapy’s documentation! — Scapy 2023.07.31 documentation",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://scapy.readthedocs.io/en/latest/"
+         }, {
+            "date_added": "13336404046593568",
+            "date_last_used": "0",
+            "guid": "895cce2f-977b-4329-8701-456eadc85bf9",
+            "id": "35",
+            "name": "raw.githubusercontent.com/skillplot/lscripts-docker/main/lscripts/banners/skplt.fingerprint.sh",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://raw.githubusercontent.com/skillplot/lscripts-docker/main/lscripts/banners/skplt.fingerprint.sh"
+         }, {
+            "date_added": "13338119897495657",
+            "date_last_used": "0",
+            "guid": "51483d14-030c-47b8-a885-14bcb54d1fae",
+            "id": "36",
+            "name": "Income Tax Allowances and Deductions Allowed to Salaried Individuals",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://cleartax.in/s/income-tax-allowances-and-deductions"
+         }, {
+            "date_added": "13338119905460054",
+            "date_last_used": "0",
+            "guid": "1b489d60-a6cf-4ceb-9622-33a9fa63815e",
+            "id": "37",
+            "name": "Join Our Team | GreyOrange",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.greyorange.com/company/careers/#th-job-section"
+         }, {
+            "children": [ {
+               "date_added": "13338150869033072",
+               "date_last_used": "0",
+               "guid": "51beefd5-da69-49b0-b4c7-31ef03f3eefd",
+               "id": "39",
+               "name": "Pandas Cheat Sheet: Data Cleaning",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://datascientyst.com/pandas-cheat-sheet-data-cleaning/"
+            }, {
+               "date_added": "13338150885483873",
+               "date_last_used": "0",
+               "guid": "89207869-4728-4e8c-8a7e-cbb4840b2a95",
+               "id": "40",
+               "name": "Data_Cleaning_with_Python_Cheat_Sheet_Anello.pdf",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.kdnuggets.com/publications/sheets/Data_Cleaning_with_Python_Cheat_Sheet_Anello.pdf"
+            }, {
+               "date_added": "13338150889511510",
+               "date_last_used": "0",
+               "guid": "5beb8936-4714-4790-aa7a-e86d5d53e8a8",
+               "id": "41",
+               "name": "Pythonic Data Cleaning With pandas and NumPy – Real Python",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://realpython.com/python-data-cleaning-numpy-pandas/"
+            } ],
+            "date_added": "13338150880861443",
+            "date_last_used": "0",
+            "date_modified": "13338150889511510",
+            "guid": "955c8195-e178-4890-863d-e3dd48ccddce",
+            "id": "38",
+            "name": "DA using Python",
+            "source": "unknown",
+            "type": "folder"
+         } ],
+         "date_added": "13344692236241542",
+         "date_last_used": "0",
+         "date_modified": "13338119905460054",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13344692236241552",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13344692236241556",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCLzzCFeKAQAAEgAgASoYbVdPbmxCQVY0T3FsQnYvaVQ0bHdEQT09oAYKEqcBCCkSogEKHGJWMkVEd08xbDYrWHBzSUFYb0wxRHRBOCt6RT0SJDViZWI4OTM2LTQ3MTQtNDc5MC1hYTdhLWU4NmQ1ZDUzZThhOBgAIAAoADDqkqK4pTE4lJWiuKUxQJSVorilMUocaFVXdXpNSStKaG02eDQ4cTFxUmF4VlB2cmc0PVoeIhxobXBWaWkyNnRUS3VnbGwrRDVBTldJa0pJVlU9Zaj+SAQSpwEIKBKiAQocZEdoVk5rYU11b0VnOXdNdnNnVHUwWlBmMWZnPRIkODkyMDc4NjktNDcyOC00ZThjLThhN2UtY2JiNDg0MGIyYTk1GAAgACgAMKLzobilMTjD9aG4pTFAw/WhuKUxShxrZ0pEdEJQYmQ4aHZQMlNsNnF1SkU4WW5DblE9Wh4iHDlTenI1VERBQ1lhUTlJN09nY0IzQm1SZE5iYz1lQO5laBKnAQgnEqIBChxOWEpTckUvd08zMHpua3dVVEFrVHduNmdJNlE9EiQ1MWJlZWZkNS1kYTY5LTQ5YjAtYjRjNy0zMWVmMDNmM2VlZmQYACAAKAAwoM+huKUxOKfsoLilMUCn7KC4pTFKHHBSK1cwS3BnS1FhVmxpQ1RoR2I0VzZiY0gvZz1aHiIcL29lWFhpK0lXbHdqakhpQmFPb2JaNnN6N2t3PWUyo4cCEqsBCCYSpgEKHEcwR1ZzOEJxU3p2MDlDa1IrVmY0OElNOFFvRT0SJDk1NWM4MTk1LWUxNzgtNDg5MC04NjNkLWUzZGQ0OGNjZGRjZRgAIAAoADC756O4pTE4/9KhuKUxQP/SobilMUocc2d2Z01KNEpwMWhMZ3VPZGsxNWQ3bFZ6blVvPVoiIiD////9NWQvbVhnaDZXYlRrREdGeHpXaEI1NlRLTnRVPWUAAAAAEqsBCCUSpgEKHDBIR21VWE85dmxOWE93c29XdzZ3aHM0RWJQUT0SJDFiNDg5ZDYwLWE2Y2YtNGNlYi05NjIyLTMzYTlmYTYzODE1ZRgAIAAoADC33b2ppTE4quC9qaUxQKrgvamlMUocR1pnaGpBWk9SK2YvRkUzTEgwYVBYZFB1VEMwPVoiIiD////0L2pCUnNzaHNwQnZrdlhuNmpmZnJtTkRneWlFPWVarYf+EqsBCCMSpgEKHElpVGpJSG1FWUhPalY0QU4xNXRuSi9VV2dWZz0SJDg5NWNjZTJmLTk3N2ItNDMyOS04NzAxLTQ1NmVhZGM4NWJmORgAIAAoADCD0Kb3njE4tdKm954xQLXSpveeMUocaFRDemlTUXR6NkxaZmdHYzBjMlN6YmZxcThBPVoiIiD////QVFY5U3VPM1doUWo3Z3ROb2xWcE9pNVcxNXpZPWUAAAAAEqoBCCESpQEKHDBHNXk5NS9aVG5zWERSVUpaRUQ0YzBVN2RSZz0SJDZiNzcxZDk4LWY0NjktNDJkOS04M2M0LTkxM2MwODQ0OTRiNRgAIAAoADDt06WnmzE4s9ilp5sxQLPYpaebMUocb2tMMlVBT0tIT2lIZmw1VG4wcHVyMXFhRW5ZPVohIh////9Ca0poZ3NmVXJiYnBQclNFNTBKUTFBclZOUGM9ZV1Hj4MSqgEIHxKlAQocaXRmcm1oVWpGNEMwbndWVWVkdndMd2ZqMktRPRIkMWM1MDhlZDItZmE5YS00ZGY4LTgzYWEtMjhkZTIwN2MwZDY3GAAgACgAMJzgjbuFMTiV4Y27hTFAleGNu4UxShwvUnFoWkxxYm1DeUNVM3Ara3ZPaE9XWmMrV2s9WiEiH////TFnOFkvMFliNHVubzc0ODc5R2FsMVJXeExTTT1lmgvxCRKqAQgdEqUBChxBN1BJTEFhQmRQTExLZ1ZZL21jbis4Tmx3WW89EiRjOTAyMmEwYi1mZWFjLTRlN2YtYTI1Yi03ZjZlMmMyOGFkOTMYACAAKAAwp6aJpO8wOJKniaTvMECSp4mk7zBKHDhPekZ4Z0dQVE0rUXdTNURLYXZJbFJtSzZTOD1aISIf///2OTlhVVIrVitjYmNzWUtDRUllemVHV1krems4PWWjrRxfEqoBCBwSpQEKHHBxejlhVFJIWU1EUzJPS3NJZm1kUkp0NXJHQT0SJGMxNDkzMWZmLTk2NmUtNDI1Ni1hYjNlLWYyMmM4Njg2ZWVjYxgAIAAoADDZxsP97jA47MfD/e4wQOzHw/3uMEocMmhGM2VGcVlwUWdsK2taVFpaSmJTQ2U1ZDk4PVohIh///+xwcjIxRXNaTHJUdG15RzRsTlBFWE9xM2tXWEE9ZQAAAAASqgEIGhKlAQocVXk5cmJ4ZENaTk0zZ3dKM0Y0RzlBK2Q0N3hNPRIkNTVmZjgyZjktZGQ4OC00NjQ2LTlhOTItMDFjYWZhNDEwYmYyGAAgACgAMOjGw/3uMDjkysP97jBA5MrD/e4wShwxcXFCMmJNZFIvMHYwSWNscjZ6cFpMUnEyWDA9WiEiH///s0RvMHlkRWFBa3EvVjZ3a2oyYlhMMGtyaFpMST1lAAAAABKpAQgXEqQBChwvK0dFeTMxMmRPNVBzNDExb2JDbHJKOUFUT2s9EiQ3MzMxMmY3Yi02MjE2LTQ5ZTktOWVjNi0yYjJjZjkyY2M3NjUYACAAKAAw4cbD/e4wOLfJw/3uMEC3ycP97jBKHER5czlmQ1EzYjhkY1JYUFhneWd4NjAxVmlJZz1aICIe//1NY3pHLzMyTmFEUkJ2MXFSOE80YmZiUVIxaVk9ZQAAAAASqQEIFhKkAQocU2hHWWNvUGMwZEMxa2F5UWVqMVd6c3NrNkFnPRIkYjA5NTUzN2EtNzRlOS00MGYyLWE4ODktM2Y5ZmNhNGZmODVmGAAgACgAMOrGw/3uMDijy8P97jBAo8vD/e4wShxHSkVnNjVXa0EvYWIxMHFjRSsxUkJ3RWtEOWc9WiAiHv/7OFNSYThuVjZVY1RQTzNuSGdOZk03UGdoOG93PWUAAAAAEqoBCBsSpQEKHGt5ZCtPNFBRYVg5UHFGdnlmaTQ4TjJLWGg3RT0SJDFhNDk5OGI3LTc3MGUtNDgwNC1hOWU4LWE4YjAzNWQ5YTI1ZRgAIAAoADDfxsP97jA4iMnD/e4wQIjJw/3uMEocVmtvU3c2cHlIS01Cd2Z3OGdrRHVHZi9mOVlVPVohIh///9lIN1hqdnA3a0RKWWRUblgvQjBlay9ibUF3YUk9ZQAAAAASqQEIGRKkAQocaTh0M0t4bi9BMERaQ05DeE5jY3EzRTZWcUVJPRIkOWE0NDRlODMtNGRmNi00YmNmLWE1M2MtZTA5NzlmNTkwNjZjGAAgACgAMOXGw/3uMDiWysP97jBAlsrD/e4wShxxckszdHpvQUVEbU15N1dCMUNnTFNXRVUyT1k9WiAiHv//ZitEWnJlZnU4ekFiclN3R0JWazlYbWc4ckJNPWUAAAAAEqkBCBUSpAEKHHdSWHg0aW1vUjBUcFdvMXBSMzF0UmE4RlA5dz0SJGJlZWNjNTY4LThiZmUtNDBkMy05MTg3LWNmNzNhODhlMmE3YhgAIAAoADDdxsP97jA42cjD/e4wQNnIw/3uMEocdTB4Wk1VN2o0aUlmMmwybXVHQ2p5UTRMQlY0PVogIh7/9kY3bUl4ek9Hbks2dHp3Z2g5TWVoRlphb1lXVT1lAAAAABKpAQgUEqQBChw4K0duSGk5Zkphek5UdTZQVktzY0NrTFB0bDQ9EiQ2NTViYzYxMi0zNDIxLTRhZDYtYjliZS0yOTUyMTk4MDAzMTkYACAAKAAw4MbD/e4wOKfJw/3uMECnycP97jBKHDFGMFlSV2V1NHZ2WmpheStTNWRhQ3JDRk1QVT1aICIe/+02TjVMSE16ZXg3aVByUVBWMU1DN3JvL1RjRzg9ZQAAAAASqwEIIhKmAQocT21Cdk9KU1FSMVk0bWNRWkdKdnlNVGZoRm9ZPRIkNmI4YzM5MzktZTYwNi00MzE4LThkNGEtMzI0MzMxMjNmZGNmGAAgACgAMNaj2KGcMTj9ptihnDFA/abYoZwxShw3OGZMVjZpWUIxZEZqcjBmNldGTlg0ZDNvazQ9WiIiIP///6E2cE5adkZVUzY5bmcrYUF4MGE1R1JXRVpZeW89ZeenpcwSqQEIExKkAQocQXBLcC9SUzNidFRYMWVLSjFjWFdWMDdVdkVnPRIkNTZjYWU0NGQtNDExYi00ZTdkLWJjYzAtZjE5YTk2NjU4YWEwGAAgACgAMOfGw/3uMDjUysP97jBA1MrD/e4wShxycXNFQVF2cndWdkN2ZjlLZkFIa09MTW5lMkE9WiAiHv/aTXY0dHhDRE5rYnY1ZUlCQWhNZ29WMXVLNlZzPWUAAAAAEqgBCBESowEKHCtRQmI0T1l6bUFwa1ZFMklXMnd4Q1JGODNmRT0SJGM5MTk4ZWYwLTgwNDYtNDI4Yy1hYjdlLWU1MjJjMzhlNzgwYhgAIAAoADDmxsP97jA4tcrD/e4wQLXKw/3uMEocQ1dRblpHTEg4K25SSS9TbW82RWU0WWliTGJRPVofIh3/a3RHQ1B1UVl3MG00SlkzMWFCaEFGYktIU2N3PWUEyJoKEqkBCBgSpAEKHEo4dVVpY3RGVUo4NkI0aXVTZHB3YnhzSzFGQT0SJDI2ZGJiMWI4LWFhYTUtNDdmMC1hN2RjLTJjZTJjZGQzMTY0ZRgAIAAoADDpxsP97jA4g8vD/e4wQIPLw/3uMEocOVc0dG85Yi95RXRyQ3dIclpIU0ovKzZoODc0PVogIh7//klpR2FxSmYrWE5HUWVtaHplK0RYSmZHL0FFOD1lAAAAABKoAQgOEqMBChx0dEwvVFJpWkxNUHJDSEUvTUIwN0R4d3dQUDg9EiQxODcwYzkwZi01ZmQzLTQyMTUtYmUxNC00NDg1ZmE3ODM5NDkYACAAKAAw2sbD/e4wOPvHw/3uMED7x8P97jBKHHIxbkxzdmd4UlNxbTBVbVVZSUVVTXB4bDdiND1aHyId+zZ2dzVpbnVjSlBsMTZsWVBwWUZwT1dPMXg4QT1lXCr5KhKoAQgNEqMBChw1OFIrMjNvUUwwQzJSbkJta0JRWElIQWdCUFU9EiRhMGMyNmRiNy1kMmQxLTQzOWQtYWIyNi1hOWI2MTM2YTNlZGIYACAAKAAw4sbD/e4wONbJw/3uMEDWycP97jBKHDdCTUF0K2lqWjlManExeUxTZnoyRzJvZ0N1bz1aHyId9lhRdFBEbm9WemtQUWJIdE5zakhieFo2MkZuTT1lpPvomBKoAQgLEqMBChxPSVE2NS9RSXFCNnpPdk80ZFhqOXVMc1VSTXM9EiQwODQ0ZDRjOS0zOTFmLTQ1ZjItOTQ4NC1jNmUwOTdmNzU4ZDcYACAAKAAw3sbD/e4wOOnIw/3uMEDpyMP97jBKHFR6Y0tQS1pvcTNPbW8rRjVBREV4bmt4d0VjQT1aHyId23BIUzZCMlFuTWVOZk1xU0wrUm54M0Z2Q0hFaz1le6dAcRKoAQgKEqMBChxDTGE3amQ3RGE1Q1EzQ2NhbHZxa3FLYnhVSVE9EiRlOGRjZTBhMy0wYWIyLTRjOWQtOTgwNy05OTE2YTcxZDY3NjYYACAAKAAwgfbR+e4wOJThtKLbMECU4bSi2zBKHFB0ZThCMkw1ell4UTBkbDg0V2dqYVRXcFUwND1aHyIdt1k1QVRPa2tOb1d3VTN1UTJWWm9URmx0QStDdz1llEtvrBKnAQgIEqIBChw1QWhCVDJzRVkxVWlYVEFncUdhc3JDYlJ5UTg9EiQ1NmIyYjNiMS01Mzc3LTRlMDctYmI5Mi01Nzg5ZDdlOTQ1YWEYACAAKAAwgPbR+e4wOKmuyKHLMECprsihyzBKHG1xcjN1dzZRUklKTGxnWWplNWRFWFo3VVNaST1aHiIcb3hoSGF0K1ZkcEVqUlNaQURVUG1zVlJ4UWVZPWVr/k9IEqkBCBISpAEKHFB5bXFpb0dRRkd5UFljemRNZUh6cVdSeHYxST0SJDg4YWM5NzA1LTIyNzUtNDczOS1iOTNhLTc1Zjk1Y2IzNDgxMBgAIAAoADDkxsP97jA4hcrD/e4wQIXKw/3uMEocSmJQS1h3OVNkZGw3ZUtTY1JjREcyaTV3VWo0PVogIh7/tUtibElkRGI5Y29ZMmFXdEs3K0dIMFlBc3dyZz1lBMiaChKoAQgQEqMBChxEcElmWHBCbmdudHNqa01scVVqc2luTWI5amc9EiRkNTYzODc3YS0zNGU3LTQwOWQtYTUzMy00MWU5MTBiODAwNGUYACAAKAAw48bD/e4wOObJw/3uMEDmycP97jBKHGIrSWtwckx6dmJ4Nk5EYzNESlhWVkRqV0VjTT1aHyId/mhwWDVWaGZlT2NPS1o3NFVLZmZMUnNFbnJVcz1lBMiaChKnAQgJEqIBChxrYnpoVEpKN0wwNlJBa0YvOFljNWxFenNRRDg9EiRhMTVkZGE5OS1hM2IxLTQzOTctOGVlOS1hZjFlODkxYzM0N2EYACAAKAAwzv/s+4IxOL+A7fuCMUC/gO37gjFKHGMrajdrTzBPY3MzYVVnSUVJTWU5N2VNdHFITT1aHiIceVphTXU5emlOUHk2VWMwUkxjalJZbHpJUlBZPWUAAAAAEokBCAMShAEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SJDZiYjdkMzQ5LTZlMzktNTZhOS1hZTdjLTJiMjI5MWVmMTM1ZhgAIAAoADC2wfmcyzA4sM75nMswQLDO+ZzLMEoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAAASpwEIBxKiAQoccDhvTHZyMks3N3dDRkJCcE8rY0VQTlMvOU5vPRIkYWFmYzVkYzQtMWM1OC00OTAzLThmZWEtZTc3NjU4NDA1NTU2GAAgACgAMP/10fnuMDj/17KhyzBA/9eyocswShxjbDVGYWEzVU45T1pKc1RpMzFYNkxhV3NJWms9Wh4iHEduOEF3N1kwWHl6N0IxdHh6OUZrV09vbUhtcz1l4+QDmhKrAQgkEqYBChxGV1ZaRWdKa1JKeWc4MkV5U21ZZ1lsQ2N2aEU9EiQ1MTQ4M2QxNC0wMzBjLTQ3YjgtYTg4NS0xNGJjYjU0ZDFmYWUYACAAKAAwjZ+9qaUxOLGivamlMUCxor2ppTFKHENUSUlnMWlSKzVza3RtaXJjYi9oUWp4Wi9KRT1aIiIg////6FpDM3FDYllrTmVDbjRlN3BpOHZzZis5VEtwZz1lWx3RoBKoAQgMEqMBChxObVRSazliZHhtbVlpODBlamZJRHFKSmNERnc9EiRlNjYyMTFmMC0yMmUyLTQ2NTktOWU1Mi0zYWM5MzgxODlmMTEYACAAKAAwneeF94IxOJvIw/3uMECbyMP97jBKHFE3RStpSFBka3JBaWNVS01VZHdQamJhcUFCdz1aHyId7W1VVm5jQ09FWjFmb0Njd084ejR1UkZWL0RZTT1lOPk5MxKqAQggEqUBChxMbHREUkhmUGY0Wkt2MkhvSTRWZURWMGhwTFU9EiQyNGVlMGJiMC1iZjYyLTRlYzYtYjBiOS05YmI3MjAyY2MzMzAYACAAKAAw97OnppsxON62p6abMUDetqemmzFKHEdvRXdQRk1EZFRuRjVKNmdyQlFIdFZ4RnpvZz1aISIf///+Z0VMWDA2ODBOamRYTGpraFRWNit1YytaaW9BPWUORX+PEqoBCB4SpQEKHFc1d1p4OEFkRHA3Q0g0K2NvdG1WNGhnaGFTdz0SJGI2NDdlMTQxLTE1NTAtNDhlNy1iMTczLTZiZjQyODFjZDA4NhgAIAAoADD6wfKr9zA49MLyq/cwQPTC8qv3MEocUHJGcEZJVE9hRk14NEZRa21ERFovUjlrbDl3PVohIh////trWWxlbGlPNGlSTjJxdjF3Q3Y0emFGbG5EWVE9ZS0+n/kSqAEIDxKjAQocNWlHSEJFU1hUN1FYRkpyM0ZZUUhoNGtVa2d3PRIkYjM4NDNlNjUtMTE4NC00M2UwLThmM2ItNTIxOGQyODQzOTZiGAAgACgAMNzGw/3uMDiqyMP97jBAqsjD/e4wShx0QkkydlliOHdITTdyb0c5QlJlY3RiU2NrK009Wh8iHf1qV0hDbGhRT2liOEdRQnd4NkRraWQxV1RUYkk9ZdmCY/ASiQEIARKEAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRIkOTQ5OTRiYjUtYWRlNS01NTI2LTljYWUtYzZhMDQzNjE1MzQ2GAAgACgAMLDB+ZzLMDj0zPmcyzBA9Mz5nMswShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAABKJAQgCEoQBChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EiRkOGMwNTVhNS1jNWY4LTVhMWMtOTQzOC01NzJkMjE5NWQxMmQYACAAKAAwscH5nMswOJTN+ZzLMECUzfmcyzBKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAMAA4AA==",
+   "version": 1
+}
